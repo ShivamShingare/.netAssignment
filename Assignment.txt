@@ -1,0 +1,59 @@
+db.people.insertMany([
+  {
+    _id: ObjectId("67d97cd542b5edce1c04730f"),
+    name: "John Doe",
+    age: 70,
+    children: ["Alice", "Bob"]
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047310"),
+    name: "Emma Smith",
+    age: 99,
+    children: ["David"]
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047311"),
+    name: "Michael Johnson",
+    age: 67,
+    children: []
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047312"),
+    name: "Sophia Brown",
+    age: 16,
+    children: []
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047313"),
+    name: "Liam Davis",
+    age: 19,
+    children: ["Noah"]
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047314"),
+    name: "Olivia Wilson",
+    age: 45,
+    children: ["Ethan", "Mia"]
+  },
+  {
+    _id: ObjectId("67d97cd542b5edce1c047315"),
+    name: "William Martinez",
+    age: 12,
+    children: []
+  }
+]);
+
+
+db.people.find({ age: 99 });
+db.people.find({ age: { $gt: 65 } });
+db.people.find({ age: { $gte: 12, $lt: 20 } });
+
+
+Restaurant Assignment :
+
+db.restaurants.find().limit(5);
+db.restaurants.find();
+db.restaurants.find({ "address.street": "Camp", "address.city": "Pune" });
+db.restaurants.find({ "grades.score": { $gt: 90 } });
+
+
