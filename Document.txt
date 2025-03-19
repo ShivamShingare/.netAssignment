@@ -1,0 +1,46 @@
+// To insert one document :
+
+db.inventory.insertOne({
+  item: 'canvas',
+  qty: 100,
+  tags: ['cotton'],
+  size: { h: 28, w: 35.5, uom: 'cm' }
+});
+
+
+// To insert Multiple documents:
+
+db.inventory.insertMany([{
+  item: 'canvas',
+  qty: 100,
+  tags: ['cotton'],
+  size: { h: 28, w: 35.5, uom: 'cm' }
+},{
+  item: 'canvas',
+  qty: 100,
+  tags: ['cotton'],
+  size: { h: 28, w: 35.5, uom: 'cm' }
+},{
+  item: 'canvas',
+  qty: 100,
+  tags: ['cotton'],
+  size: { h: 28, w: 35.5, uom: 'cm' }
+},{
+  item: 'canvas',
+  qty: 100,
+  tags: ['cotton'],
+  size: { h: 28, w: 35.5, uom: 'cm' }
+}]);
+
+
+Read :
+
+db.inventory.find() - To fetch all records
+db.inventory.find({qty:150}) - To fetch specific record
+db.inventory.find(tags: {$in:["copper","gold"]}) - to find recors using in operator
+
+And Operator:
+db.inventory.find({tags:"copper",qty:{$lt:100}})
+
+Or Operator:
+db.inventory.find({&or: [{tags:"copper"},{qty:{$gt:100}}]})
