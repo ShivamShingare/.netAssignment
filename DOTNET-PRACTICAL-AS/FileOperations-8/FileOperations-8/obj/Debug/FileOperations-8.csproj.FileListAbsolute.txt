@@ -1,0 +1,7 @@
+D:\ASNET\FileOperations-8\FileOperations-8\bin\Debug\FileOperations-8.exe.config
+D:\ASNET\FileOperations-8\FileOperations-8\bin\Debug\FileOperations-8.exe
+D:\ASNET\FileOperations-8\FileOperations-8\bin\Debug\FileOperations-8.pdb
+D:\ASNET\FileOperations-8\FileOperations-8\obj\Debug\FileOperations-8.csproj.AssemblyReference.cache
+D:\ASNET\FileOperations-8\FileOperations-8\obj\Debug\FileOperations-8.csproj.CoreCompileInputs.cache
+D:\ASNET\FileOperations-8\FileOperations-8\obj\Debug\FileOperations-8.exe
+D:\ASNET\FileOperations-8\FileOperations-8\obj\Debug\FileOperations-8.pdb

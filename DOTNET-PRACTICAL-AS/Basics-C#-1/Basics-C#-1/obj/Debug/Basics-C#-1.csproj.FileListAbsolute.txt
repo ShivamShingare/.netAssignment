@@ -1,0 +1,7 @@
+D:\ASNET\Basics-C#-1\Basics-C#-1\bin\Debug\Basics-C#-1.exe.config
+D:\ASNET\Basics-C#-1\Basics-C#-1\bin\Debug\Basics-C#-1.exe
+D:\ASNET\Basics-C#-1\Basics-C#-1\bin\Debug\Basics-C#-1.pdb
+D:\ASNET\Basics-C#-1\Basics-C#-1\obj\Debug\Basics-C#-1.csproj.AssemblyReference.cache
+D:\ASNET\Basics-C#-1\Basics-C#-1\obj\Debug\Basics-C#-1.csproj.CoreCompileInputs.cache
+D:\ASNET\Basics-C#-1\Basics-C#-1\obj\Debug\Basics-C#-1.exe
+D:\ASNET\Basics-C#-1\Basics-C#-1\obj\Debug\Basics-C#-1.pdb

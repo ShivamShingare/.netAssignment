@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASNET\\SimpleCalculator-4b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A878AE39-7A54-4E51-A178-F6B6CC97EDDE}|SimpleCalculator-4b\\SimpleCalculator-4b.csproj|d:\\asnet\\simplecalculator-4b\\simplecalculator-4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A878AE39-7A54-4E51-A178-F6B6CC97EDDE}|SimpleCalculator-4b\\SimpleCalculator-4b.csproj|solutionrelative:simplecalculator-4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A878AE39-7A54-4E51-A178-F6B6CC97EDDE}|SimpleCalculator-4b\\SimpleCalculator-4b.csproj|d:\\asnet\\simplecalculator-4b\\simplecalculator-4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A878AE39-7A54-4E51-A178-F6B6CC97EDDE}|SimpleCalculator-4b\\SimpleCalculator-4b.csproj|solutionrelative:simplecalculator-4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ASNET\\SimpleCalculator-4b\\SimpleCalculator-4b\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator-4b\\Form1.cs",
+              "ToolTip": "D:\\ASNET\\SimpleCalculator-4b\\SimpleCalculator-4b\\Form1.cs*",
+              "RelativeToolTip": "SimpleCalculator-4b\\Form1.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:32:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ASNET\\SimpleCalculator-4b\\SimpleCalculator-4b\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleCalculator-4b\\Form1.cs",
+              "ToolTip": "D:\\ASNET\\SimpleCalculator-4b\\SimpleCalculator-4b\\Form1.cs [Design]*",
+              "RelativeToolTip": "SimpleCalculator-4b\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:21:01.638Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

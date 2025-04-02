@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASNET\\MVC-CRUD-10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|d:\\asnet\\mvc-crud-10\\mvc-crud-10\\migrations\\20250331160524_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F7ED51-36A8-4CD3-B3DE-3F01082EAE45}|MVC-CRUD-10\\MVC-CRUD-10.csproj|solutionrelative:mvc-crud-10\\migrations\\20250331160524_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MVC-CRUD-10\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T19:28:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-CRUD-10\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T19:20:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Views\\Students\\List.cshtml",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "MVC-CRUD-10\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T18:55:57.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:10:51.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Views\\Students\\Add.cshtml",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "MVC-CRUD-10\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-31T17:52:48.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwFUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:50:49.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250331160524_Initial Migration.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Migrations\\20250331160524_Initial Migration.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Migrations\\20250331160524_Initial Migration.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Migrations\\20250331160524_Initial Migration.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Migrations\\20250331160524_Initial Migration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:05:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\appsettings.json",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\appsettings.json",
+              "RelativeToolTip": "MVC-CRUD-10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T15:49:42.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Program.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Program.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:44:09.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Models\\Entities\\Student.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:40:57.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC-CRUD-10\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASNET\\MVC-CRUD-10\\MVC-CRUD-10\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MVC-CRUD-10\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:36:04.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

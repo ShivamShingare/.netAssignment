@@ -1,0 +1,12 @@
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\LINQ-11.exe.config
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\LINQ-11.exe
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\LINQ-11.pdb
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\EntityFramework.dll
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\EntityFramework.xml
+D:\ASNET\LINQ-11\LINQ-11\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASNET\LINQ-11\LINQ-11\obj\Debug\LINQ-11.csproj.AssemblyReference.cache
+D:\ASNET\LINQ-11\LINQ-11\obj\Debug\LINQ-11.csproj.CoreCompileInputs.cache
+D:\ASNET\LINQ-11\LINQ-11\obj\Debug\LINQ-11.csproj.Up2Date
+D:\ASNET\LINQ-11\LINQ-11\obj\Debug\LINQ-11.exe
+D:\ASNET\LINQ-11\LINQ-11\obj\Debug\LINQ-11.pdb

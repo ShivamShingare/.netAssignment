@@ -1,0 +1,7 @@
+D:\ASNET\OOPs\OOPs\obj\Debug\OOPs.csproj.AssemblyReference.cache
+D:\ASNET\OOPs\OOPs\obj\Debug\OOPs.csproj.CoreCompileInputs.cache
+D:\ASNET\OOPs\OOPs\bin\Debug\OOPs.exe.config
+D:\ASNET\OOPs\OOPs\bin\Debug\OOPs.exe
+D:\ASNET\OOPs\OOPs\bin\Debug\OOPs.pdb
+D:\ASNET\OOPs\OOPs\obj\Debug\OOPs.exe
+D:\ASNET\OOPs\OOPs\obj\Debug\OOPs.pdb

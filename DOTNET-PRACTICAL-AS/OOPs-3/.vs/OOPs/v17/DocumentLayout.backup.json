@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASNET\\OOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|d:\\asnet\\oops\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|d:\\asnet\\oops\\oops\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|solutionrelative:oops\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|d:\\asnet\\oops\\oops\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|solutionrelative:oops\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|d:\\asnet\\oops\\oops\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B9CF06-33DE-4E5F-B54F-D6088FB59184}|OOPs\\OOPs.csproj|solutionrelative:oops\\iwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASNET\\OOPs\\OOPs\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPs\\Employee.cs",
+              "ToolTip": "D:\\ASNET\\OOPs\\OOPs\\Employee.cs*",
+              "RelativeToolTip": "OOPs\\Employee.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:38:11.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\ASNET\\OOPs\\OOPs\\Person.cs",
+              "RelativeDocumentMoniker": "OOPs\\Person.cs",
+              "ToolTip": "D:\\ASNET\\OOPs\\OOPs\\Person.cs*",
+              "RelativeToolTip": "OOPs\\Person.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:36:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWork.cs",
+              "DocumentMoniker": "D:\\ASNET\\OOPs\\OOPs\\IWork.cs",
+              "RelativeDocumentMoniker": "OOPs\\IWork.cs",
+              "ToolTip": "D:\\ASNET\\OOPs\\OOPs\\IWork.cs",
+              "RelativeToolTip": "OOPs\\IWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:35:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASNET\\OOPs\\OOPs\\Program.cs",
+              "RelativeDocumentMoniker": "OOPs\\Program.cs",
+              "ToolTip": "D:\\ASNET\\OOPs\\OOPs\\Program.cs*",
+              "RelativeToolTip": "OOPs\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:34:05.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

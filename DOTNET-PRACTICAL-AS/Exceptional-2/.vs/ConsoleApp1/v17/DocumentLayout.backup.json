@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASNET\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9301DD-DA1D-4D96-ADBB-2E7EE4299B93}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asnet\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9301DD-DA1D-4D96-ADBB-2E7EE4299B93}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|d:\\asnet\\consoleapp1\\myoperations\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\mycustomexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|d:\\asnet\\consoleapp1\\myoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|d:\\asnet\\consoleapp1\\myoperations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3F1360-2B7D-4E82-A2B4-436112267C39}|MyOperations\\MyOperations.csproj|solutionrelative:myoperations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomException.cs",
+              "DocumentMoniker": "D:\\ASNET\\ConsoleApp1\\MyOperations\\MyCustomException.cs",
+              "RelativeDocumentMoniker": "MyOperations\\MyCustomException.cs",
+              "ToolTip": "D:\\ASNET\\ConsoleApp1\\MyOperations\\MyCustomException.cs",
+              "RelativeToolTip": "MyOperations\\MyCustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:19:10.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "D:\\ASNET\\ConsoleApp1\\MyOperations\\Operations.cs",
+              "RelativeDocumentMoniker": "MyOperations\\Operations.cs",
+              "ToolTip": "D:\\ASNET\\ConsoleApp1\\MyOperations\\Operations.cs",
+              "RelativeToolTip": "MyOperations\\Operations.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:17:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ASNET\\ConsoleApp1\\MyOperations\\Class1.cs",
+              "RelativeDocumentMoniker": "MyOperations\\Class1.cs",
+              "ToolTip": "D:\\ASNET\\ConsoleApp1\\MyOperations\\Class1.cs",
+              "RelativeToolTip": "MyOperations\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:16:09.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASNET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\ASNET\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:15:20.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

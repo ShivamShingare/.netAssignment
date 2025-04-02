@@ -1,0 +1,10 @@
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\bin\Debug\SimpleCalculator-4b.exe.config
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\bin\Debug\SimpleCalculator-4b.exe
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\bin\Debug\SimpleCalculator-4b.pdb
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator-4b.csproj.AssemblyReference.cache
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator_4b.Form1.resources
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator_4b.Properties.Resources.resources
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator-4b.csproj.GenerateResource.cache
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator-4b.csproj.CoreCompileInputs.cache
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator-4b.exe
+D:\ASNET\SimpleCalculator-4b\SimpleCalculator-4b\obj\Debug\SimpleCalculator-4b.pdb

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASNET\\LINQ-11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\data\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|d:\\asnet\\linq-11\\linq-11\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{78FF22EB-4C97-446C-B72F-29BF3C74F3A5}|LINQ-11\\LINQ-11.csproj|solutionrelative:linq-11\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\Data\\SampleData.cs",
+              "RelativeDocumentMoniker": "LINQ-11\\Data\\SampleData.cs",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\Data\\SampleData.cs*",
+              "RelativeToolTip": "LINQ-11\\Data\\SampleData.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:46:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\App.config",
+              "RelativeDocumentMoniker": "LINQ-11\\App.config",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\App.config*",
+              "RelativeToolTip": "LINQ-11\\App.config*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T14:40:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\packages.config",
+              "RelativeDocumentMoniker": "LINQ-11\\packages.config",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\packages.config",
+              "RelativeToolTip": "LINQ-11\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-01T14:39:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "LINQ-11\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\SchoolContext.cs*",
+              "RelativeToolTip": "LINQ-11\\Models\\SchoolContext.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:30:22.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "LINQ-11\\Models\\Course.cs",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\Course.cs",
+              "RelativeToolTip": "LINQ-11\\Models\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:29:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LINQ-11\\Models\\Student.cs",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\Models\\Student.cs",
+              "RelativeToolTip": "LINQ-11\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T14:29:05.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASNET\\LINQ-11\\LINQ-11\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ-11\\Program.cs",
+              "ToolTip": "D:\\ASNET\\LINQ-11\\LINQ-11\\Program.cs*",
+              "RelativeToolTip": "LINQ-11\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:54:34.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

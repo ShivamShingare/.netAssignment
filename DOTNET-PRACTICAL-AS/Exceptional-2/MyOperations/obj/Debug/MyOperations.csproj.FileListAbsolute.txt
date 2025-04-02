@@ -1,0 +1,6 @@
+D:\ASNET\ConsoleApp1\MyOperations\bin\Debug\MyOperations.dll
+D:\ASNET\ConsoleApp1\MyOperations\bin\Debug\MyOperations.pdb
+D:\ASNET\ConsoleApp1\MyOperations\obj\Debug\MyOperations.csproj.AssemblyReference.cache
+D:\ASNET\ConsoleApp1\MyOperations\obj\Debug\MyOperations.csproj.CoreCompileInputs.cache
+D:\ASNET\ConsoleApp1\MyOperations\obj\Debug\MyOperations.dll
+D:\ASNET\ConsoleApp1\MyOperations\obj\Debug\MyOperations.pdb

@@ -1,0 +1,10 @@
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ASNET\TShirtOrderingApp-4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
